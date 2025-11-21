@@ -1,2 +1,12 @@
 Khiemdz34234234324c234c23423423423423423
 sadasdasdas
+git remote add <ten> <dia_chi>
+vd:
+git remote add thu6 git@github.com:hoangmanhkhiem/Ngay21thang11.git
+git remote -v
+
+git push <tên remote> <tên nhánh>
+git push thu6 master
+
+git pull <tên remote> <tên nhánh>
+git pull thu6 master
