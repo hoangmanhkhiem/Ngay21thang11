@@ -10,3 +10,9 @@ git push thu6 master
 
 git pull <tên remote> <tên nhánh>
 git pull thu6 master
+ádasdasdasdasd
+ád
+á
+dá
+d
+ádas
